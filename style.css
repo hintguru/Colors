@@ -1,0 +1,20 @@
+:root {
+  --primary: #74b9ff;
+  --secondary: #55efc4;
+  --tertiary: #ffeaa7;
+  --danger: #ff7675;
+  --info: #81ecec;
+  --success: #77d970;
+  --warning: #f1c40f;
+  --pure: #eeeeee;
+  --dark: #2c3a47;
+  --light: #dad0c2;
+  --space: #9c88ff;
+  --spring: #ff0075;
+  --warm: #fff47d;
+  --cold: #88e0ef;
+  --cofee: #a19882;
+  --dark-blue: #3498db;
+  --fade-red: #ef5777;
+  --rainbow: linear-gradient(120deg, #f6d365 0%, #fda085 100%);
+}
